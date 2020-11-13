@@ -1,0 +1,34 @@
+
+body{
+    background-color: #393938;
+}
+label{
+    color: #d27216;
+
+}
+.form-control{
+    border: 2px solid #e96339;
+}
+.text-center{
+    color: #d27216;
+}
+.line-trough{
+    text-decoration: line-through;
+}
+.line-underline{
+    text-decoration: underline;
+}
+.italic{
+    font-style: italic;
+}
+.bold{
+    font-weight: bold;
+}
+.active{
+    background-color: #88ff00 !important;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
