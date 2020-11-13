@@ -71,7 +71,7 @@ function textLeft(elem){////////////////////////////////////////////////////////
 
 
 
-function textRight(elem){///////////////////////////////////////////////////////////
+function textRight(elem){
     output.style.textAlign="right"
     document.querySelectorAll('.align').forEach((bntAlign)=>{
         bntAlign.classList.remove('active')
